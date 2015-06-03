@@ -1,0 +1,23 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# complie class
+target
+*.class
+
+# ide settings
+.idea
+.projects
+.DS_Store
+*.iml
+
+# others
+log
+*.log
+*.sql
+
+# release
+release.properties
+.project
